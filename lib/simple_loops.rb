@@ -15,7 +15,7 @@ end
  end
  def return_string_array (array)
 result = []
-count = 0 
+count = 0
 while count < array.length do
   result << array[count].to_s
   count +=1
