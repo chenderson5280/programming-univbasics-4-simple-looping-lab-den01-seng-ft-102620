@@ -7,5 +7,5 @@ end
    number.times{puts message}
  end
  def output_array (message, number)
-number.times{puts message}
+
  end
